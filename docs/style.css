@@ -1,0 +1,17 @@
+
+table {
+	margin: 0 auto;
+	width: 600px;
+border-color: black;}
+th, td {
+	border-radius: 3px;
+	color: #333;
+	padding: 7px 10px 5px 10px;
+	min-width: 9em;
+	text-align: left;}
+th {
+	background-color: gray;
+	font-weight: bold;
+	text-transform: uppercase;}
+td {
+	background-color: #fff;}
